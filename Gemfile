@@ -18,8 +18,8 @@ group :assets do
 end
 
 group :development, :test do
-  gem 'actionpack', '~> 3.2'
-  gem 'railties',   '~> 3.2'
+  gem 'actionpack', '~> 4.2.5'
+  gem 'railties',   '~> 4.2.5'
   gem 'tzinfo'
 
   gem 'jasminerice'
